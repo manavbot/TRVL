@@ -1,4 +1,4 @@
-## Welcome to TRVL
+
 
 ## Privacy Policy
 TRVL Terms of Service and Privacy Policy
