@@ -2,6 +2,7 @@
 
 ## Privacy Policy
 TRVL Terms of Service and Privacy Policy
+TRVL Terms of Service and Privacy Policy
 
 1. Terms
 
@@ -55,6 +56,4 @@ We will make readily available to customers information about our policies and p
 We will only retain personal information for as long as necessary for the fulfilment of those purposes.
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. TRVL may change this privacy policy from time to time at TRVL's sole discretion.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Share Lovingl
