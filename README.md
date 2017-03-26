@@ -1,10 +1,9 @@
+## Test 
 
 
 ## Privacy Policy
 TRVL Terms of Service and Privacy Policy
 TRVL Terms of Service and Privacy Policy
-
-## Test 
 
 1. Terms
 
